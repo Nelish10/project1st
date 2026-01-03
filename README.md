@@ -12,3 +12,7 @@ Python program that simulates projectile motion using physics equations.
 pip install numpy matplotlib
 python projectile.py
 
+
+
+
+
